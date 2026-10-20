@@ -1,0 +1,22 @@
+# Local research data and operational artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.env
+.env.*
+data/
+cache/
+logs/
+artifacts/
+reports/private/
+*.sqlite
+*.sqlite3
+*.db
+*.jsonl
+*.log
+.codex/
+.DS_Store
